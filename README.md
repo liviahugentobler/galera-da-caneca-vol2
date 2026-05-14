@@ -1,7 +1,8 @@
 # ☕ Galera da Caneca — Sistema de Gestão de Vendas
 
 > **Projeto Integrador ll **  
-> Curso Técnico em Desenvolvimento de Sistemas — SENAC EAD  
+> Curso Técnico em Desenvolvimento de Sistemas — SENAC EAD
+> Responsável: Lívia Hugentobler  
 > Refatoração do sistema desktop Java Swing com aplicação dos princípios SOLID
 
 ---
